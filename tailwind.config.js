@@ -19,6 +19,11 @@ module.exports = {
       container: {
         center: true,
       },
+      colors: {
+        "orange-c": "#EB5757",
+        "gray-c": "#FAF7F4",
+        "blue-dark-c": "#02094A",
+      },
     },
   },
   plugins: [],
